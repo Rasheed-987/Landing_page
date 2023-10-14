@@ -1,0 +1,175 @@
+*{
+    padding: ;
+    margin: 0%;
+     box-sizing: border-box;    
+     font-family: 'Roboto', sans-serif;
+    }
+
+.container1{
+    height: 700px;
+    display: block;
+}
+.first p{
+    position: relative;
+    top: 19px;
+}
+.btn{
+    background: #0693E3;
+    border-radius: 19px;
+    width: 127px;
+    padding: 5px;
+    margin-top: 23px;
+    cursor: pointer;
+    font-size: 20px;}
+.container2{
+    height: 600px;
+    display: block;
+}
+ .first h3{
+    margin-top: 34px;
+}
+.container1 img{
+    position: relative;
+    left: 934px;
+    top: -260px;
+    z-index: -2px;
+    margin: 270px 0 0 -1%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 12%;   
+}
+.first{
+    padding: 20px;
+    display: block;
+    max-width: 362px;
+    height: 189px;
+    position: relative;
+    left: 374px;
+    top: 206px;
+    font-size: 19px;
+    
+}
+
+.center img{
+    width: 1784px;
+    height: 444px;
+    
+}
+.center{
+    display: flex;
+    height: 570px;
+    justify-content: space-around;
+    background-image : url("WhatsApp Image 2023-10-10 at 4.19.42 PM.jpeg") ;
+    background-size: cover;
+    width: auto;
+    background-repeat: no-repeat;
+    
+}
+.data1{
+     margin: 185px 0px;
+     font-size: large;
+     color: aliceblue;
+     max-width: 343px;
+    }
+    .data2{
+        margin: 185px 0px;
+        color: aliceblue;
+        max-width: 343px;
+        font-size: large;
+    }
+    .data3{
+        max-width: 343px;
+    color: aliceblue;
+    font-size: large;
+    margin: 185px 0px;
+    
+}
+.second{
+    text-align: center;
+    position: relative;
+    top: 249px;
+    max-width: 679px;
+    left: 530px;
+}
+
+.head{
+    position: relative;
+    top: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 44px;
+    color: #61c7af;
+}
+.center h3{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.center p{
+    margin: 19px;
+}
+.second p{
+    margin-top: 24px;
+}
+
+.for{ 
+    display: block;
+    max-width: 815px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: relative;
+    top: 100px;
+}
+.for h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 26px;
+
+}
+.end{
+    height: 802px;
+    background-image : url("WhatsApp Image 2023-10-10 at 4.19.42 PM.jpeg") ;
+    background-size: cover;
+    width: auto;
+    display: block;
+    background-repeat: no-repeat;
+    color: rgb(216, 228, 238);
+    position: relative;
+}
+
+.container3{
+    display: block;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 200px;
+    gap: 44px;
+    color: rgb(216, 228, 238);
+}
+.third{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px dashed white;
+    width: 344px;
+    height: 344px;
+    gap: 34px;
+}
+.third p{
+    font-size: large;
+}
+footer{
+    position: absolute;
+    bottom: 0; 
+    width: 100%; 
+    text-align: center; 
+}
+a{
+    text-decoration: none;
+}
